@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\bin\Debug\WFF_Windows.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\bin\Debug\WFF_Windows.exe
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\bin\Debug\WFF_Windows.pdb
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.exe
+c:\users\dell\documents\visual studio 2013\Projects\WFF_Windows\WFF_Windows\obj\Debug\WFF_Windows.pdb
